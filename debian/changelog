@@ -1,3 +1,9 @@
+tensorflow (1.13.1+nns) unstable; urgency=medium
+
+  * Appended a suffix to the maintainer's version
+
+ -- Sangjung Woo <sangjung.woo@samsung.com>  Thu, 28 May 2020 09:01:01 +0900
+
 tensorflow (1.13.1) unstable xenial bionic; urgency=medium
 
   * Initial debian dist files for tensorflow c_api are added
